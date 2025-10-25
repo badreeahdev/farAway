@@ -20,7 +20,7 @@ npm start
 
 ```
 
-✨ Features
+## ✨ Features
 
 -Add items with quantity using the form (src/Form.js) via handleSubmit.
 
@@ -42,7 +42,7 @@ handleResetItems
 
 Logo component for branding (src/Logo.js).
 
-Project files
+## Project files 📂
 
 src/
 ├─ App.js # Main component and state management
