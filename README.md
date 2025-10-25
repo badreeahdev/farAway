@@ -46,12 +46,19 @@ Project files
 
 src/
 ├─ App.js # Main component and state management
+
 ├─ Form.js # Add-item form (uses handleSubmit)
+
 ├─ Item.js # Single item row (props: item, onDeleteItem, onToggleItem)
+
 ├─ PackingList.js # List rendering, sorting, and actions
+
 ├─ Stats.js # Footer stats
+
 ├─ Logo.js # Header component
+
 ├─ index.js # React bootstrap
+
 public/
 ├─ index.html # HTML template
 package.json # Scripts & dependencies
